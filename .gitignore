@@ -1,0 +1,8 @@
+.DS_Store
+.vscode/
+.claude/
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+Notes/
